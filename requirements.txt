@@ -5,3 +5,4 @@ google-generativeai
 python-dotenv
 python-dateutil
 json_repair
+openpyxl
