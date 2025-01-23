@@ -1,0 +1,7 @@
+PyPDF2
+python-docx
+pandas
+google-generativeai
+python-dotenv
+python-dateutil
+json_repair
